@@ -14,7 +14,21 @@ This dataset powers the [SF Plant Finder](https://sfplanninggis.org/plantsf/) â€
 **Potential applications**
 >I am always looking at the plants I see when I walk around town, and the first thing I always think is, 'is that a native plant?'
 >
+
 This dataset could be extremely useful to determine if plants are native or not and how that might translate to effective pollination within their natural community.
 
 
 *Sources:* DataSF dataset page and SF Plant Finder site; City pages referencing filters and the recommended plant database; DataSF inventory (description + update dates).
+
+### Book: **Fundamental Numerical Methods and Data Analysis**  
+
+*A practical tour of numerical tools used in data science: linear systems, interpolation, numerical differentiation/integration, ODE solvers, least-squares & Fourier analysis, and sampling distributions. Directly useful for regression, FFT/spectral analysis, and uncertainty estimation.*
+
+Author: George W. Collins, II 
+Institute: Harvard University 
+URL: https://ads.harvard.edu/books/1990fnmd.book/
+
+_Made available electronically by the NASA Astrophysics Data System (ADS)_
+
+>This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book would give me valuable insight where it highlights the linear estimation of uncertainty.
+>
