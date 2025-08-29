@@ -17,7 +17,6 @@ This dataset powers the [SF Plant Finder](https://sfplanninggis.org/plantsf/) â€
 This dataset could be extremely useful to determine if plants are native or not and how that might translate to effective pollination within their natural community.
 
 
-*Sources:* DataSF dataset page and SF Plant Finder site; City pages referencing filters and the recommended plant database; DataSF inventory (description + update dates).
 
 ### Book: **Fundamental Numerical Methods and Data Analysis**  
 
@@ -26,8 +25,6 @@ This dataset could be extremely useful to determine if plants are native or not 
 - **Author:** George W. Collins, II 
 - **Institute:** Harvard University 
 - **URL:** [Fundamental Numerical Methods and Data Analysis](https://ads.harvard.edu/books/1990fnmd.book/)
-
-##### Made available electronically by the NASA Astrophysics Data System (ADS)
 
 >This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book would give me valuable insight where it highlights the linear estimation of uncertainty.
 >
