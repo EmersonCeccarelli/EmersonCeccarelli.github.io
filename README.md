@@ -26,9 +26,9 @@ This dataset could be extremely useful to determine if plants are native or not 
 
 - **Author:** George W. Collins, II 
 - **Institute:** Harvard University 
-- **URL:** https://ads.harvard.edu/books/1990fnmd.book/
+- **URL:** [Fundamental Numerical Methods and Data Analysis](https://ads.harvard.edu/books/1990fnmd.book/)
 
-__Made available electronically by the NASA Astrophysics Data System (ADS)__
+####### _Made available electronically by the NASA Astrophysics Data System (ADS)_
 
 >This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book would give me valuable insight where it highlights the linear estimation of uncertainty.
 >
