@@ -19,11 +19,12 @@ This dataset could be extremely useful to determine if plants are native or not 
 
 ### Book: **Fundamental Numerical Methods and Data Analysis**  
 
+**URL:** [Fundamental Numerical Methods and Data Analysis](https://ads.harvard.edu/books/1990fnmd.book/)
+
 *A practical tour of numerical tools used in data science: linear systems, interpolation, numerical differentiation/integration, ODE solvers, least-squares & Fourier analysis, and sampling distributions. Directly useful for regression, FFT/spectral analysis, and uncertainty estimation.*
 
 - **Author:** George W. Collins, II 
 - **Institute:** Harvard University 
-- **URL:** [Fundamental Numerical Methods and Data Analysis](https://ads.harvard.edu/books/1990fnmd.book/)
 
 >This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book, while recreationaly interesting, would be quite difficult to pull out useful analysis of uncertainty within the scope of this exercise.
 >
