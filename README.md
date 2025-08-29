@@ -2,8 +2,7 @@
 
 ### Dataset: San Francisco Plant Finder
 
-**URL:**  
-[San Francisco Plant Finder Data (DataSF)](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Plant-Finder-Data/vmnk-skih/about_data)
+**URL:** [San Francisco Plant Finder Data (DataSF)](https://data.sfgov.org/Energy-and-Environment/San-Francisco-Plant-Finder-Data/vmnk-skih/about_data)
 
 This dataset powers the [SF Plant Finder](https://sfplanninggis.org/plantsf/) — a city resource that recommends climate-appropriate, habitat-building plants for San Francisco’s microclimates. The site notes the data is downloadable under a Creative Commons license and maintained by City agencies supporting biodiversity and climate resilience.
 
