@@ -8,7 +8,6 @@ This dataset powers the [SF Plant Finder](https://sfplanninggis.org/plantsf/) â€
 
 - **What it covers:** Curated list of recommended plants used by SF Plant Finder (City resources describe filters like sun exposure, plant type, habitat/water use).  
 - **Why itâ€™s useful:** Links planting choices to goals like biodiversity, urban heat mitigation, and water conservation.  
-- **Last updated (portal inventory):** July 10, 2025.
 
 **Potential applications**
 >I am always looking at the plants I see when I walk around town, and the first thing I always think is, 'is that a native plant?'
@@ -26,5 +25,5 @@ This dataset could be extremely useful to determine if plants are native or not 
 - **Institute:** Harvard University 
 - **URL:** [Fundamental Numerical Methods and Data Analysis](https://ads.harvard.edu/books/1990fnmd.book/)
 
->This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book would give me valuable insight where it highlights the linear estimation of uncertainty.
+>This book looks strangley comforting to me; I always enjoyed my 'blocky' math books and especially enjoy Linear Algebra and Number Theory so anything 'Numeric' always catches my eye. I think this book, while recreationaly interesting, would be quite difficult to pull out useful analysis of uncertainty within the scope of this exercise.
 >
