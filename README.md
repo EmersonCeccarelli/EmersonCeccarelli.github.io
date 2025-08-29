@@ -12,7 +12,8 @@ This dataset powers the [SF Plant Finder](https://sfplanninggis.org/plantsf/) â€
 - **Last updated (portal inventory):** July 10, 2025.
 
 **Potential applications**
-I am always looking at the plants I see when I walk around town, and the first thing I always think is, 'is that a native plant?'
+>I am always looking at the plants I see when I walk around town, and the first thing I always think is, 'is that a native plant?'
+>
 This dataset could be extremely useful to determine if plants are native or not and how that might translate to effective pollination within their natural community.
 
 
